@@ -1,0 +1,7 @@
+¿Qué entiende como "commit"?
+	El commit es el punto que sube toda la informacion que se lleva hasta el momento
+¿Qué entiende como "merge"?
+	es el comando que se utiliza para unir una rama con otra rama
+¿Cuál es la diferencia entre "Pull" y "Push"?
+	el pull baja la informacion contenida en los archivos del repositorio y el push sube todos los archivos al repositorio 
+	desde el ultimo commit realizado
