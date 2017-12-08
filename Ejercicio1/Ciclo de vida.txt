@@ -1,0 +1,16 @@
+Ciclo de Vida Del Software
+
+El ciclo de vida del software es una seuencia de pasos oredenados 
+que ayudan a la creacion de software de una manera ordenada
+los pasos son:
+
+*Analisis de requerimietos: este paso se refiere a la recaudacion de informacion
+brindada por el cliente para de desarrolo del software
+*Dise;o;: en este paso se da un dise;o de preeliminar de lo que se quiere
+*Desarrollo: en este paso se empieza a desarrollar el software dependiendo de los 
+requerimientos solicitados
+*Mantenimiento: en esta etapa el softaware ya esta terminado y ya solo se revisan errores minimos
+y actualizaciones del mismo
+
+Siempre hay que tomar al Software como un producto: teniendo en cuenta que este sera el conjunto de todo
+lo realizado (codigo, Diagramas, Documentacion, etc)

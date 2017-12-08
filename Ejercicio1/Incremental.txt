@@ -1,0 +1,6 @@
+Modelo Iterativo incremental:
+Es un modelo de desarrollo de software que consiste en el desarrollo de peque;as iteraciones 
+del proyecto total para asi poder trabajar cada una de las mismas aplicando una metodologia de cascada
+por cada iteracion y asi proseguir con los siguientes de una forma mas sencilla, esta es mas flexible al 
+cambio de requerimientos
+

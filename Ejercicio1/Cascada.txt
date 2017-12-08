@@ -1,0 +1,5 @@
+Modelo Cascada:
+el modelo cascada es una forma en la que se puede trabajar el ciclo de vida del software
+esta consiste en un desarrollo empezando desde el primer paso del ciclo de vida del software
+hasta terminar en el ultimo, este brinda un analisis ordenado y secuencial pero es deficiente
+en cuanto a cambios en los requerimientos no definidos en pasos anteriores al que se esta manejando.
